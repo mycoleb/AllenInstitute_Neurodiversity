@@ -1,0 +1,6 @@
+echo "allensdk==2.16.2
+numpy>=1.23.5
+pandas
+matplotlib
+seaborn
+networkx" > requirements.txt
